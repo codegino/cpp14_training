@@ -1,0 +1,6 @@
+.project
+.cproject
+.settings/*
+build/release/*
+!build/release/CMakeList.txt
+external/gtest/libs/gtest.a
